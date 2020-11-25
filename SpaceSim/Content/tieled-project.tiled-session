@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map/test-map.tmx",
+    "expandedProjectPaths": [
+        "Map",
+        "Tileset"
+    ],
+    "fileStates": {
+        "C:/Users/patri/Downloads/space1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/patri/Downloads/unbenannt.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1318.6666666666665,
+                "y": 937.9999999999999
+            }
+        },
+        "Map/test-map.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -269.5,
+                "y": 93.99999999999999
+            }
+        },
+        "Tileset/Space1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Map/test-map.tmx",
+        "Tileset/Space1.tsx"
+    ],
+    "project": "tieled-project.tiled-project",
+    "recentFiles": [
+        "Tileset/Space1.tsx",
+        "Map/test-map.tmx",
+        "C:/Users/patri/Downloads/space1.tsx",
+        "C:/Users/patri/Downloads/unbenannt.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

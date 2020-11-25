@@ -1,0 +1,11 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "Tileset",
+        "Map"
+    ],
+    "objectTypesFile": ""
+}
